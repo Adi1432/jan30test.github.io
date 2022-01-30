@@ -1,0 +1,29 @@
+table,
+tr,
+td {
+  border: 2px solid whitesmoke;
+}
+td {
+  padding: 5px;
+}
+table {
+  text-align: center;
+  margin: auto;
+  background-color: black;
+  color: gray;
+}
+body {
+  background-color: lime;
+}
+#con12 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+#search,
+#btn {
+  padding: 5px;
+}
+td {
+  padding: 10px;
+}
